@@ -1,0 +1,135 @@
+{
+    "Monday":
+  {
+    "DayName": [
+      "M",
+      "o",
+      "n",
+      "d",
+      "a",
+      "y",
+      " ",
+      " ",
+      " "
+    ],
+    "OpenTime": 8.00,
+    "CloseTime": 20.00,
+    "DayIsEnabled": true,
+    "Sunrise": false,
+    "Sunset": false
+  },
+  "Tuesday":
+  {
+    "DayName": [
+      "T",
+      "u",
+      "e",
+      "s",
+      "d",
+      "a",
+      "y",
+      " ",
+      " "
+    ],
+    "OpenTime": 8.00,
+    "CloseTime": 20.00,
+    "DayIsEnabled": true,
+    "Sunrise": false,
+    "Sunset": false
+  },
+  "Wednesday":
+  {
+    "DayName": [
+      "W",
+      "e",
+      "d",
+      "n",
+      "e",
+      "s",
+      "d",
+      "a",
+      "y"
+    ],
+    "OpenTime": 8.00,
+    "CloseTime": 20.00,
+    "DayIsEnabled": true,
+    "Sunrise": false,
+    "Sunset": false
+  },
+  "Thursday":
+  {
+    "DayName": [
+      "T",
+      "h",
+      "u",
+      "r",
+      "s",
+      "d",
+      "a",
+      "y",
+      " "
+    ],
+    "OpenTime": 8.00,
+    "CloseTime": 20.00,
+    "DayIsEnabled": true,
+    "Sunrise": false,
+    "Sunset": false
+  },
+  "Friday":
+  {
+    "DayName": [
+      "F",
+      "r",
+      "i",
+      "d",
+      "a",
+      "y",
+      " ",
+      " ",
+      " "
+    ],
+    "OpenTime": 8.00,
+    "CloseTime": 20.00,
+    "DayIsEnabled": true,
+    "Sunrise": false,
+    "Sunset": false
+  },
+  "Saturday":
+  {
+    "DayName": [
+      "S",
+      "a",
+      "t",
+      "u",
+      "r",
+      "d",
+      "a",
+      "y",
+      " "
+    ],
+    "OpenTime": 8.00,
+    "CloseTime": 20.00,
+    "DayIsEnabled": true,
+    "Sunrise": false,
+    "Sunset": false
+  },
+  "Sunday":
+  {
+    "DayName": [
+      "S",
+      "u",
+      "n",
+      "d",
+      "a",
+      "y",
+      " ",
+      " ",
+      " "
+    ],
+    "OpenTime": 8.00,
+    "CloseTime": 20.00,
+    "DayIsEnabled": true,
+    "Sunrise": false,
+    "Sunset": false
+  }
+  }
